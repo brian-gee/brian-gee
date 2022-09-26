@@ -34,7 +34,7 @@
 ###
 
 <br clear="both">
-
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <img src="https://raw.githubusercontent.com/brian-gee/brian-gee/output/snake.svg" alt="Snake animation" />
 
 ###
