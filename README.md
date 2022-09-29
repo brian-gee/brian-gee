@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brian-gee/brian-gee/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/brian-gee/brian-gee/output/github-contribution-grid-snake-dark.svg" />
 
 ###
